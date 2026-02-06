@@ -260,4 +260,4 @@ For general Actual Budget support, visit:
 
 ---
 
-**Made with ❤️ for QNAP users who want privacy-focused budgeting on their NAS withouth fucking 32k problems**
+**Made with ❤️ for QNAP users who want privacy-focused budgeting on their NAS without fucking 32k problems**
