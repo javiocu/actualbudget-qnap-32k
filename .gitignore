@@ -1,0 +1,23 @@
+# Data folders
+actual-data/
+*.db
+*.db-wal
+*.db-shm
+
+# Build artifacts
+*.tar
+*.tar.gz
+*.tgz
+
+# Docker cache
+.cache/
+.buildx-cache/
+
+# OS files
+.DS_Store
+*.swp
+*~
+
+# IDE
+.vscode/
+.idea/

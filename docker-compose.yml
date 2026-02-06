@@ -1,0 +1,12 @@
+services:
+  actual-budget:
+    image: javiocu/actualbudget-qnap-32k:latest
+    container_name: actual-budget
+    restart: unless-stopped
+    ports:
+      - "5006:5006"
+    volumes:
+      - ./actual-data:/data
+    environment:
+      - TZ=Europe/Madrid
+      - NODE_ENV=production
